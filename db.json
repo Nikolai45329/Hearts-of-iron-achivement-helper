@@ -1,10 +1,20 @@
 {
     "achivements": [
   
-      { "id": 1, "name": "John roe", "discriptio": "john@example.com" },
+      { "id": 1, "name": "Bearer of Artillery Gain Vojtek as commander" },
   
-      { "id": 2, "name": "Jane Dre", "discriptio": "jane@example.com" }
-  
+      { "id": 2, "name": "Big Entente As France, complete the Little Entente National Focus, and have all German cores owned by you or someone in your faction."},
+
+      { "id": 3, "name": "Canada First icon Canada First Join Axis as Canada."},
+
+      { "id": 4, "name": "Destroyer of Worlds Deploy a nuke."},
+
+      { "id": 5, "name": "Duce Nuked'em icon Duce Nuked'em Nuke Los Angeles as fascist Italy."},
+
+      { "id": 6, "name": "Forge of Victory Have 50 factories as Belgium."},
+
+      { "id": 7, "name": "Friend in Need icon Friend in Need Join a faction."},
+      
+      { "id": 8, "name": "Master of War icon Master of War Fully research a land, naval and air doctrine tree."}
     ]
-  
 }
