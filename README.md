@@ -1,7 +1,7 @@
 # Project Title: Cookie Clicker Info Page
 
 ## Project Overview
-This is a info page about cookie clicker.
+This is a info page about hearts of iron IV.
 
 ## Objectives
 Explain the game to people.
@@ -14,23 +14,17 @@ The website will include the following features:
 A main page containing basic info about the game and links to all subpages.
 ### 3. **Navigation Menu**
 Navigation bar at the top making it easy to navigate across the website.
-### 5. **Additional Pages/Sections**
-#### Cookie clicker Achievement helper:
-The original plan for the website but it was deemed to be too little content.
-a page for most achivements.
-We want to make it possible for users to mark which achievements they have already gotten and then the website shows which achievements still have to be achieved and which of them are the easiest to get
 
 
 ## Technologies Used
 - **HTML**
 - **CSS**
 - **Javascript**
+- **jsonserver**
 - 
 ## Deliverables
 -complete website
 
 ## Submission Instructions
 - will be submitted on github
-## Resources
-- not known yet which ressources will be used
-- 
+
