@@ -1,20 +1,520 @@
 {
     "achivements": [
   
-      { "id": 1, "name": "Bearer of Artillery Gain Vojtek as commander" },
+      { "id": 1, "name": "Bearer of Artillery. Gain Vojtek as commander" },
   
-      { "id": 2, "name": "Big Entente As France, complete the Little Entente National Focus, and have all German cores owned by you or someone in your faction."},
+      { "id": 2, "name": "Big Entente. As France, complete the Little Entente National Focus, and have all German cores owned by you or someone in your faction."},
 
-      { "id": 3, "name": "Canada First icon Canada First Join Axis as Canada."},
+      { "id": 3, "name": "Canada First. Join Axis as Canada."},
 
-      { "id": 4, "name": "Destroyer of Worlds Deploy a nuke."},
+      { "id": 4, "name": "Destroyer of Worlds- Deploy a nuke."},
 
-      { "id": 5, "name": "Duce Nuked'em icon Duce Nuked'em Nuke Los Angeles as fascist Italy."},
+      { "id": 5, "name": "Duce Nuked'em. Duce Nuked'em Nuke Los Angeles as fascist Italy."},
 
-      { "id": 6, "name": "Forge of Victory Have 50 factories as Belgium."},
+      { "id": 6, "name": "Forge of Victory. Have 50 factories as Belgium."},
 
-      { "id": 7, "name": "Friend in Need icon Friend in Need Join a faction."},
+      { "id": 7, "name": "Friend in Need. Friend in Need Join a faction."},
       
-      { "id": 8, "name": "Master of War icon Master of War Fully research a land, naval and air doctrine tree."}
+      { "id": 8, "name": "Master of War. Master of War Fully research a land, naval and air doctrine tree."},
+
+      { "id": 9, "name": "Med plutonium... Nuke Denmark as Sweden."},
+      
+      { "id": 10, "name": "Mine is bigger than yours Lead a faction with at least 20 members."},
+
+      { "id": 9, "name": "New World Order   Make all nations fascist."},
+      
+      { "id": 10, "name": "No country for old men Reach 0 manpower with Scraping the Barrel as Conscription Law."},
+
+      { "id": 9, "name": "Nobody expects... As Nationalist Spain in Axis manage to take Paris before the Germans."},
+      
+      { "id": 10, "name": "Northern Light As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it."},
+
+      { "id": 9, "name": "Once More Mate Occupy Gallipoli as Australia."},
+      
+      { "id": 10, "name": "One Empire Unite the entire world under the British Empire."},
+
+      { "id": 9, "name": "Operation Sea Lion Control British mainland as Germany."},
+      
+      { "id": 10, "name": "Party like it's 1520 Occupy Stockholm as communist Denmark."},
+
+      { "id": 9, "name": "Poland Can Into Space Has completed the Special Project Rocket Interceptor."},
+      
+      { "id": 10, "name": "Sunset Invasion Occupy a coastal province in Europe as Mexico, and if in a faction have it contain only South American members or puppets."},
+
+      { "id": 9, "name": "The bell tolls for us Win Spanish Civil War as Republican Spain."},
+      
+      { "id": 10, "name": "The Revenge of Montezuma Restore the old borders with the USA as Mexico."},
+
+      { "id": 9, "name": "The Revolution Triumphant Have Germany as a puppet of Soviet."},
+      
+      { "id": 10, "name": "Time is on our side Reach 1948."},
+
+      { "id": 9, "name": "Transport Tycoon  Have at least 1000 convoys."},
+      
+      { "id": 10, "name": "True Blitzkrieg As Germany have both Poland and France surrender before January 1st 1940."},
+
+      { "id": 9, "name": "United Netherlands Conquer Belgium and Luxembourg as Netherlands."},
+      
+      { "id": 10, "name": "Vive la France Reach 1948 as France without capitulating or surrendering."},
+
+      { "id": 9, "name": "We'll Build it in a Day Research Construction V."},
+      
+      { "id": 10, "name": "Wunderwaffen Has completed the Special Projects Nuclear Fission Bomb, Rocket Interceptor and Jet Engines."},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name":""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name":""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name":""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""},
+
+      { "id": 9, "name": ""},
+      
+      { "id": 10, "name": ""}
     ]
 }
